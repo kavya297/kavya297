@@ -1,26 +1,68 @@
 # Hi, I'm Kavya 👋
 
-B.Tech ECE Graduate interested in Python, SQL, and Database Development, and Full-Stack Development.
+B.Tech ECE Graduate | Python | SQL | MySQL | Oracle SQL | Full-Stack Development
 
-## Technical Skills
+## 👩‍💻 About Me
 
+- 🎓 B.Tech graduate in Electronics and Communication Engineering
+- 💻 Interested in Python, SQL, Database Development, and Full-Stack Development
+- 🗄️ Experienced in building database-driven projects using Python, MySQL, and Oracle SQL
+- 🚀 Interested in building reliable and practical software solutions
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Python
 - SQL
+- JavaScript
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Databases
 - MySQL
 - Oracle SQL
-- HTML, CSS, JavaScript
-- Git & GitHub
 
-## Projects
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
 
 ### E-Commerce Order Management System
 *Python | MySQL*
 
-Transaction-safe e-commerce order management system with inventory management and SQL-based reporting.
+- Developed an end-to-end e-commerce order management system.
+- Implemented inventory management and transaction-safe order processing.
+- Used SQL JOINs and aggregate functions for business reporting.
+
+🔗 [View Project](https://github.com/kavya297/E-Commerce-OMS)
 
 ### European Travel Booking Database
 *Oracle SQL | SQL*Plus*
 
-Relational travel booking database with multiple tables, joins, aggregate queries, and reusable SQL views.
+- Designed a relational database with 7 interconnected tables.
+- Developed JOIN, aggregate, and GROUP BY queries for reporting.
+- Created reusable SQL views for recurring reporting requirements.
 
-### Career Focus: Python Full-Stack Developer | Python Developer | SQL Developer | Database Developer
+🔗 [View Project](https://github.com/kavya297/European-Travel-Booking-Database)
+
+## 📚 Certifications
+
+- Python – CAT Computer Point – 2024
+- Computer Architecture – NPTEL – 2024
+- SQL (Advanced) – Hacker Rank – 2026
+
+## 🎯 Career Interests
+
+- Python Developer
+- SQL / Database Developer
+- Full-Stack Developer
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- GitHub: [Kavya Yanamala](https://github.com/kavya297)
