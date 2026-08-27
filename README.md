@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kavya 👋
 
-<!--
-**kavya297/kavya297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech ECE Graduate interested in Python, SQL, and Database Development, and Full-Stack Development.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- MySQL
+- Oracle SQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## Projects
+
+### E-Commerce Order Management System
+*Python | MySQL*
+
+Transaction-safe e-commerce order management system with inventory management and SQL-based reporting.
+
+### European Travel Booking Database
+*Oracle SQL | SQL*Plus*
+
+Relational travel booking database with multiple tables, joins, aggregate queries, and reusable SQL views.
+
+### Career Focus: Python Full-Stack Developer | Python Developer | SQL Developer | Database Developer
