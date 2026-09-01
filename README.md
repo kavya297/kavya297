@@ -19,6 +19,7 @@ B.Tech ECE Graduate | Python | SQL | MySQL | Oracle SQL | Full-Stack Development
 ### Web Technologies
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 
 ### Databases
